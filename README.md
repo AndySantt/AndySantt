@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack com experiência prática na criação de aplicações web e mobile completas, trabalhando desde o frontend e backend até integrações com APIs e Inteligência Artificial.
 
-Desenvolvi aplicações Android nativas com Kotlin e plataformas web utilizando Next.js, React e Node.js.
+Tenho experiência desenvolvendo aplicações Android nativas com Kotlin e plataformas web utilizando Next.js, React e Node.js.
 
 Entre meus principais projetos estão uma plataforma completa de aprendizagem de inglês com IA e um aplicativo Android publicado na Google Play.
 
@@ -115,9 +115,31 @@ https://studywordflow.com
 
 Aplicativo Android desenvolvido para conectar clientes a profissionais prestadores de serviços.
 
-O projeto envolve desenvolvimento mobile, backend, autenticação, comunicação com APIs e gerenciamento de solicitações de serviços.
+O projeto envolve desenvolvimento mobile nativo, integração com backend, autenticação, comunicação com APIs e gerenciamento de solicitações de serviços.
 
-### Features
+### 📲 Application Preview
+
+<p align="center">
+  <img
+    src="./assets/top-servicos-1.png"
+    width="30%"
+    alt="Top Serviços Android App - Screen 1"
+  />
+  &nbsp;
+  <img
+    src="./assets/top-servicos-2.png"
+    width="30%"
+    alt="Top Serviços Android App - Screen 2"
+  />
+  &nbsp;
+  <img
+    src="./assets/top-servicos-3.png"
+    width="30%"
+    alt="Top Serviços Android App - Screen 3"
+  />
+</p>
+
+### ✨ Features
 
 - User authentication
 - Professional search
@@ -125,15 +147,17 @@ O projeto envolve desenvolvimento mobile, backend, autenticação, comunicação
 - Reviews and ratings
 - Backend integration
 - API communication
+- Native Android interface
+- Service professional profiles
 
-### Technologies
+### ⚙️ Technologies
 
-`Kotlin` `Jetpack Compose` `Retrofit` `Coroutines` `Firebase`
+`Kotlin` `Jetpack Compose` `Retrofit` `Coroutines` `Firebase` `Android SDK`
 
 🌐 **Website:**  
 https://top-servicos-site.web.app/
 
-💻 **Repository:**  
+💻 **GitHub Repository:**  
 https://github.com/AndySantt/top-servicos-android
 
 ---
@@ -148,14 +172,14 @@ Tenho interesse em oportunidades nas áreas de:
 - Android Development
 - AI Integrations
 
-Gosto de transformar ideias em aplicações funcionais e tenho experiência prática construindo projetos completos, desde a interface até backend, APIs e deploy.
+Gosto de transformar ideias em aplicações funcionais e tenho experiência prática construindo projetos completos, desde a interface até backend, APIs, banco de dados, integrações e deploy.
 
 ---
 
 # 📫 Contact
 
-**LinkedIn**  
+**LinkedIn:**  
 https://www.linkedin.com/in/andr%C3%A9-barbosa-567966400/
 
-**Email**  
+**Email:**  
 andysant777@gmail.com
