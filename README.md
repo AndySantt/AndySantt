@@ -1,56 +1,121 @@
 # André Barbosa Santos
 
-Android Developer focused on Kotlin and modern mobile development.
+### Full Stack Developer | Android Developer | AI Integrations
 
-Building real-world applications with Android, backend and web technologies.
+Desenvolvedor Full Stack com experiência prática na criação de aplicações web e mobile completas, trabalhando desde o frontend e backend até integrações com APIs e Inteligência Artificial.
+
+Desenvolvi aplicações Android nativas com Kotlin e plataformas web utilizando Next.js, React e Node.js.
+
+Entre meus principais projetos estão uma plataforma completa de aprendizagem de inglês com IA e um aplicativo Android publicado na Google Play.
 
 ---
 
-## Technologies & Tools
+## 🛠 Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,nodejs,nextjs,cs,dotnet,git,github,firebase,postgresql,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,nodejs,nextjs,react,js,cs,dotnet,git,github,firebase,postgresql,figma" />
 </p>
 
----
+### Web Development
 
-## Mobile Development
+`Next.js` `React` `JavaScript` `HTML` `CSS`
 
-- Kotlin
-- Jetpack Compose
-- Retrofit
-- Navigation Compose
-- Material Design 3
-- Coroutines
-- Android SDK
+### Backend & APIs
 
----
+`Node.js` `Ktor` `REST APIs` `Supabase` `PostgreSQL` `Firebase` `ASP.NET Core`
 
-## Backend & APIs
+### Mobile Development
 
-- Ktor
-- Node.js
-- REST APIs
-- Supabase
-- ASP.NET Core
+`Kotlin` `Jetpack Compose` `Retrofit` `Navigation Compose` `Coroutines` `Android SDK`
 
 ---
 
-## Web Development
+# 🚀 Featured Projects
 
-- Next.js
-- React
-- HTML
-- CSS
-- JavaScript
+## 🧠 Study WordFlow
+
+### AI-powered English Learning Platform
+
+Plataforma completa para ensino e aprendizagem de inglês, desenvolvida com tecnologias web modernas e integração com Inteligência Artificial.
+
+🔗 **Live Platform:**  
+https://studywordflow.com
+
+<br>
+
+<p align="center">
+  <img
+    src="./assets/studywordflow-teaching-library.png"
+    width="850"
+    alt="Study WordFlow Teaching Library"
+  />
+</p>
+
+### 🎓 Teaching Platform
+
+A plataforma possui uma área voltada para professores com biblioteca pedagógica completa e materiais organizados por níveis de inglês.
+
+Entre os recursos estão:
+
+- Conteúdo organizado do nível A1 ao C2
+- Planos de aula
+- Apresentações e slides
+- Atividades prontas
+- Materiais de vocabulário e gramática
+- Geração de conteúdo com Inteligência Artificial
 
 ---
 
-## Main Project
+### 🤖 AI Learning Experience
 
-### Top Serviços
+O Study WordFlow utiliza Inteligência Artificial para criar experiências interativas de aprendizagem.
 
-Android application developed to connect clients with service professionals.
+Principais funcionalidades:
+
+- Conversação em inglês por voz
+- Interação com assistente de IA
+- Geração automática de flashcards
+- Atividades escritas
+- Conteúdo personalizado para aprendizagem
+- Sistema de progressão e ranking
+
+<br>
+
+<p align="center">
+  <img
+    src="./assets/studywordflow-student-platform.png"
+    width="380"
+    alt="Study WordFlow Student Platform"
+  />
+</p>
+
+### ⚙️ Development
+
+Projeto desenvolvido trabalhando em diferentes partes da aplicação:
+
+- Frontend
+- Backend
+- APIs
+- Banco de dados
+- Autenticação
+- Integrações com Inteligência Artificial
+- Interfaces responsivas
+- Deploy da aplicação
+
+### Technologies
+
+`Next.js` `React` `Node.js` `JavaScript` `REST APIs` `AI APIs`
+
+🌐 **Visit Study WordFlow:**  
+https://studywordflow.com
+
+---
+
+# 📱 Top Serviços
+
+Aplicativo Android desenvolvido para conectar clientes a profissionais prestadores de serviços.
+
+O projeto envolve desenvolvimento mobile, backend, autenticação, comunicação com APIs e gerenciamento de solicitações de serviços.
 
 ### Features
 
@@ -58,20 +123,39 @@ Android application developed to connect clients with service professionals.
 - Professional search
 - Service request system
 - Reviews and ratings
-- Real-time backend integration
+- Backend integration
+- API communication
 
-🔗 Website:
+### Technologies
+
+`Kotlin` `Jetpack Compose` `Retrofit` `Coroutines` `Firebase`
+
+🌐 **Website:**  
 https://top-servicos-site.web.app/
 
-🔗 Repository:
+💻 **Repository:**  
 https://github.com/AndySantt/top-servicos-android
 
 ---
 
-## Contact
+# 👨‍💻 About Me
 
-- LinkedIn:
+Tenho interesse em oportunidades nas áreas de:
+
+- Full Stack Development
+- Backend Development
+- Frontend Development
+- Android Development
+- AI Integrations
+
+Gosto de transformar ideias em aplicações funcionais e tenho experiência prática construindo projetos completos, desde a interface até backend, APIs e deploy.
+
+---
+
+# 📫 Contact
+
+**LinkedIn**  
 https://www.linkedin.com/in/andr%C3%A9-barbosa-567966400/
 
-- Email:
+**Email**  
 andysant777@gmail.com
